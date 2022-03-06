@@ -4,7 +4,7 @@ const Index = () => (
   <div className="mt-8 max-w-xl mx-auto px-8">
     <h1 className="text-center">
       <span className="block text-xl text-gray-600 leading-tight">
-        Welcome to
+        THE ONE AND ONLY mohamed bolbol 1001237 welcomes you to
       </span>
       <span className="block text-5xl font-bold leading-none">
         Cloud Computing Course
